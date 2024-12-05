@@ -9,3 +9,5 @@ This is a project made up of 5 components
 
 What is this project about?
 This project utilizes an ESP32 Dev module as the base. From there 
+
+(Readme in progress)
